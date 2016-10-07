@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html ng-app="myApp">
+<head>
+	<title>Assignment5</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<script src="node_modules\angular/angular.min.js"></script>
+    <script src="node_modules\angular-ui-router\release/angular-ui-router.min.js"></script>  
+	<script src="script/script.js"></script>
+	<style type="text/css">
+		body{
+			background-color: #ffc107;
+		}
+		h1{
+			text-align: center;
+			color: rebeccapurple;
+		}
+		h2{
+			color: red;
+			text-align: center;
+		}
+		a{
+			text-decoration: none;
+		}
+		.main{
+			width: 500px;
+			margin: 0 auto;
+		}
+		li{
+			list-style-type: none;
+			display: inline-block;
+		}
+		li a{
+			color: red;
+		}
+		.imgs{
+			height: 150px;
+			width: 150px;
+			margin-right: 10px;
+		}
+		.left{
+			margin-left: 30px;
+		}
+		.name{
+			width: 200px;
+		}
+		.page2{
+			width: 500px;
+		}
+		.image_enlarge{
+			text-align: center;
+		}
+		.image_enlarge img{
+			width: 350px;
+			height: 350px;
+		}
+		.details{
+			font-size: 20px;
+			color: #3f51b5;
+			line-height: 25px;
+			text-align: justify;
+		}
+	</style>
+</head>
+<body>
+<h1>Top 10 Monuments in India</h1>
+<div ui-view ng-controller="myController" class="main">
+	<ul>
+	  <li ng-repeat='i in data.monuments'>
+	  	<a ui-sref="display({key:$index})"><img class="imgs left" src={{i.url}}><p class="name left">{{i.name}}</p></a>
+	  </li>
+	</ul>
+</div>
+</body>
+</html>

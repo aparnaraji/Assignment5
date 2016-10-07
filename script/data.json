@@ -1,0 +1,43 @@
+{
+ 	"monuments": [{
+ 			"name":"Taj Mahal",
+ 			"url":"images/monu1.jpg",
+ 			"description":"The Taj Mahal, a beautiful white marble Monument located in the city of Agra on the banks of the holy river Yamuna in the state of Uttar Pradesh. Taj Mahal is the finest example of combines elements of Mughal,Persian, Ottoman Turkish and Indian architectural styles."
+ 		},{
+ 			"name":"Mysore Palace",
+ 			"url":"images/monu2.jpg",
+ 			"description":"The Palace of Mysore is the most famous historical monument, located in the city of Mysore in Karnataka and one of the most visited monuments in India. Mysore Palace is one of the most famous tourist attractions in the city along with Chamundi Hills."
+ 		},{
+ 			"name":"Harmandir Sahib",
+ 			"url":"images/monu3.jpg",
+ 			"description":"The Golden Temple is known as Harmandir Sahib is a Sikh Gurdwara located in the Amritsar, Punjab. Shri Darbar Shaib is the holiest shrine and most famous pilgrimage place for Sikhs. Harmandir Sahib is one of the most sacred places in India, a Holy Granth Sahib is always present inside the temple."
+ 		},{
+ 			"name":"Brihadishwara Temple",
+ 			"url":"images/monu4.jpg",
+ 			"description":"Brihadishwara Temple also called Periya Koyil or Big Temple is one of the India’s largest temple located in the Thanjavur at the Indian state of Tamil Nadu. The Rajarajeswaram temple is dedicated to Lord Shiva and the best temple build by Cholas along with Airavatesvara Temple. Brihadishwara Temple and Airavatesvara Temple are two World Heritage in Tamil Nadu India."
+ 		},{
+ 			"name":"Bahai Temple",
+ 			"url":"images/monu5.jpg",
+ 			"description":"The Lotus Temple of Delhi is called Bahai Temples, situated near kalka Ji.Lotus Temple is a house of Worship for every religion and best place for meditation and peace. Bahai Faith is spiritual unity of all humankind, there are eight continental Houses of Worship have been built around the world. "
+ 		},{
+ 			"name":"Hawa Mahal",
+ 			"url":"images/monu6.jpg",
+ 			"description":"The great monuments of the royal Rajputs of Rajasthan, Hawa Mahal also Palace of Winds is situated in the heart of pink city and the capital of Rajasthan,Jaipur. The pyramid shape five-story palace is constructed by red and pink sandstone by Maharaja Sawai Pratap Singh for women’s of royal families."
+ 		},{
+ 			"name":"Chhatrapati Shivaji Terminus",
+ 			"url":"images/monu7.jpg",
+ 			"description":"Chhatrapati Shivaji Terminus or Victoria Terminus is a historic railway station situated in the dream city of India Mumbai, Maharashtra. Victoria Terminus is one of the most busiest railway station in India and headquarters of the Central Railways. "
+ 		},{
+ 			"name":"Victoria Memorial",
+ 			"url":"images/monu8.jpg",
+ 			"description":"The Victoria Memorial Hall is located in the capital of West Bengal, Kolkata and dedicated to Queen Victoria. Victoria Memorial is one of the major tourist attraction of Kolkata and serves as a museum with great collection of manuscripts,paintings and sculptures of the British period."
+ 		},{
+ 			"name":"Qutub Minar",
+ 			"url":"images/monu9.jpg",
+ 			"description":"Qutab Minar of Delhi is one of the tallest and famous towers in the world and second tallest Minar in India. Complex of Qutb Minar is home to several historically monuments such as Tomb of Iltutmish, Iron pillar of Delhi and Alai Minar."
+ 		},{
+ 			"name":"Sanchi Stupa",
+ 			"url":"images/monu10.jpg",
+ 			"description":"The Buddhist vihara at Sanchi is also known as Great Stupa is one of the most famous Buddhist monument in India, located at Sanchi Town in Raisen District. Sanchi Stupa is one of the best preserved ancient Stupas in India, surrounded by four carved gateways."
+ 		}]
+}
